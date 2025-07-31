@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gift-maposa&show_icons=true&locale=en" alt="gift-maposa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gift-maposa&" alt="gift-maposa" /></p>
+<-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gift-maposa&" alt="gift-maposa" /></p> -->
