@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Unity Engine Game Developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gift-Maposa&label=Profile%20views&color=0e75b6&style=flat" alt="Gift-Maposa" /> </p>
-
+![](https://komarev.com/ghpvc/?username=Gift-Maposa)
 - 🔭 I’m currently working at <a href="https://itthynkgaming.co.za/">ItThynk Gaming</a>
 
 - 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/Gift-Maposa?tab=repositories)
